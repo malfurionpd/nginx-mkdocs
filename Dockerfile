@@ -1,5 +1,5 @@
 FROM nginx
-MAINTAINER sinkcup <sinkcup@163.com>
+MAINTAINER adeng <343753091@qq.com>
 
 RUN apt-get update -qq
 RUN apt-get upgrade -y
